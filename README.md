@@ -1,4 +1,4 @@
-<h1 align="center">Yo! 👋, I'm Shabrina Amalia Safana</h1>
+<h1 align="center">Yo! 👋, I'm Shabrina Amalia Safaana</h1>
 <h3 align="center">I am a Computer Science student, batch 2024, at ITS. I’m still a newbie, so I don’t have very deep knowledge about computers and related stuff yet. However, I am passionate about learning more and implementing the knowledge I gain.</h3>
 <h4>• 💻 Currently interested in web development.</h4>
 
